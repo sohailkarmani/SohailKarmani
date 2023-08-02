@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently learning **Java**
+- 🔭 I’m currently learning **Php**
 
-- 💬 Ask me about **Java || Python || C++ || Sql**
+- 💬 Ask me about **Php || Java || C++ || Sql**
 
 - 📫 How to reach me **sohailkarmani16@gmail.com**
 
